@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natha\\Desktop\\ExpenseTracker\\ExpenseTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69930908-275C-4054-865B-CD8B6AA9836A}|ExpenseTracker.csproj|c:\\users\\natha\\desktop\\expensetracker\\expensetracker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69930908-275C-4054-865B-CD8B6AA9836A}|ExpenseTracker.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69930908-275C-4054-865B-CD8B6AA9836A}|ExpenseTracker.csproj|c:\\users\\natha\\desktop\\expensetracker\\expensetracker\\models\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69930908-275C-4054-865B-CD8B6AA9836A}|ExpenseTracker.csproj|solutionrelative:models\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69930908-275C-4054-865B-CD8B6AA9836A}|ExpenseTracker.csproj|c:\\users\\natha\\desktop\\expensetracker\\expensetracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69930908-275C-4054-865B-CD8B6AA9836A}|ExpenseTracker.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69930908-275C-4054-865B-CD8B6AA9836A}|ExpenseTracker.csproj|c:\\users\\natha\\desktop\\expensetracker\\expensetracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69930908-275C-4054-865B-CD8B6AA9836A}|ExpenseTracker.csproj|solutionrelative:models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69930908-275C-4054-865B-CD8B6AA9836A}|ExpenseTracker.csproj|c:\\users\\natha\\desktop\\expensetracker\\expensetracker\\expensetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69930908-275C-4054-865B-CD8B6AA9836A}|ExpenseTracker.csproj|solutionrelative:expensetracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\natha\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:39:36.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\Budget.cs",
+              "RelativeDocumentMoniker": "Models\\Budget.cs",
+              "ToolTip": "C:\\Users\\natha\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\Budget.cs",
+              "RelativeToolTip": "Models\\Budget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:35:00.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\natha\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:20:22.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\natha\\Desktop\\ExpenseTracker\\ExpenseTracker\\Models\\Expense.cs",
+              "RelativeToolTip": "Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:13:27.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpenseTracker.csproj",
+              "DocumentMoniker": "C:\\Users\\natha\\Desktop\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
+              "RelativeDocumentMoniker": "ExpenseTracker.csproj",
+              "ToolTip": "C:\\Users\\natha\\Desktop\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
+              "RelativeToolTip": "ExpenseTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-21T20:54:34.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
